@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://enccs.github.io/openmolcas-workshop/</loc>
+    </url>
+    <url>
+        <loc>https://enccs.github.io/openmolcas-workshop/accommodation/</loc>
+    </url>
+    <url>
+        <loc>https://enccs.github.io/openmolcas-workshop/organizers/</loc>
+    </url>
+    <url>
+        <loc>https://enccs.github.io/openmolcas-workshop/program/</loc>
+    </url>
+    <url>
+        <loc>https://enccs.github.io/openmolcas-workshop/registration/</loc>
+    </url>
+    <url>
+        <loc>https://enccs.github.io/openmolcas-workshop/venue/</loc>
+    </url>
+</urlset>

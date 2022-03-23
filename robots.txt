@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enccs.github.io/openmolcas-workshop/sitemap.xml
